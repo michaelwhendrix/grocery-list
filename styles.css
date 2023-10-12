@@ -1,0 +1,31 @@
+header {
+    background-color: khaki;
+    height: 100px;
+}
+
+h1 {
+    text-align: center;
+    color: mediumslateblue;
+}
+.pantry-items {
+    background-color: springgreen;
+    border: 4px orangered solid;
+    width: 800px;
+    height: 500px;
+}
+.freezer-items {
+    background-color: deeppink;
+    border: 4px orangered solid;
+    width: 800px;
+    height: 500px;
+}
+
+div {
+    float: left;
+    border: 4px goldenrod solid;
+    height: 200px;
+    width:  200px;
+    background-color: cornflowerblue;
+    margin: 10px;
+    padding: 20px;
+}
